@@ -62,7 +62,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/food_nutrition_logo-171x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/food-nutrition-logo-171x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
